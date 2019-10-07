@@ -11804,11 +11804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ToyProject2.2\\ToyProject2.2\\ToyProject2.2.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\ToyProject2.2_Clone\\ToyProject2.2\\ToyProject2.2.csproj",
       "projectName": "ToyProject2.2",
-      "projectPath": "C:\\Users\\user\\source\\repos\\ToyProject2.2\\ToyProject2.2\\ToyProject2.2.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\ToyProject2.2_Clone\\ToyProject2.2\\ToyProject2.2.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\ToyProject2.2\\ToyProject2.2\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\ToyProject2.2_Clone\\ToyProject2.2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
